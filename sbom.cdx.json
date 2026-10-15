@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:5ce09452-4205-5c47-8048-f429f5fb9a41",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T15:33:18Z",
+    "component": {
+      "type": "application",
+      "name": "INKSCAPE",
+      "version": "1232eac68aff",
+      "bom-ref": "pkg:generic/anticloud/INKSCAPE@1232eac68aff",
+      "purl": "pkg:generic/anticloud/INKSCAPE@1232eac68aff",
+      "licenses": [
+        {
+          "license": {
+            "id": "NOASSERTION"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "1232eac68aff12978b208ff3ebfbbcc3ecbd7022"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/inkscape/inkscape"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
